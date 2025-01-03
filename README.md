@@ -7,3 +7,6 @@ Features:
 - AI-based predictions for health conditions
 - Secure cloud data upload
 - Optional visualization of patient vitals
+Usage: 
+This system continuously collects patient vitals, predicts health conditions, and uploads data to the cloud for further analysis. Optionally, use the visualization module to generate graphs.
+
